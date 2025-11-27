@@ -9,3 +9,6 @@ This repo links to separate repos for each lab.
 
 **Realty:**
 [https://github.com/justinclark-dev/realty-sql-lab](https://github.com/justinclark-dev/realty-sql-lab)
+
+**NFL:**
+[https://github.com/justinclark-dev/nfl-sql-lab](https://github.com/justinclark-dev/nfl-sql-lab)
