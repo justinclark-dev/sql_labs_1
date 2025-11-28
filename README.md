@@ -12,3 +12,6 @@ This repo links to separate repos for each lab.
 
 **NFL:**
 [https://github.com/justinclark-dev/nfl-sql-lab](https://github.com/justinclark-dev/nfl-sql-lab)
+
+**Flights:**
+[https://github.com/justinclark-dev/flights-sql-lab](https://github.com/justinclark-dev/flights-sql-lab)
